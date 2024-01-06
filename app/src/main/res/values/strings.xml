@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Amey</string>
+    <string name="wel">Welcome</string>
+    <string name="ph">Press Here</string>
+    <string name="log">Login</string>
+    <string name="ok">Okay!</string>\
+    <string name="can">Cancel</string>
+    <string name="en">Enter</string>
+    <string name="eu">enter username</string>
+    <string name="ep">enter password</string>
+    <string name="ls">Logged In Succesfully </string>
+
+</resources>
